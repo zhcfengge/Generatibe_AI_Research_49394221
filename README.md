@@ -1,3 +1,12 @@
-# AI_Research
+│
+├── Literature_Review/ # Journal articles, conference papers, books
+│ 
+├── Quantitative_Analysis/ # Survey data and analysis
 
-put some stuff - all data for the project
+├── Qualitative_Analysis/ # Interview materials
+
+├── Drafts_and_Reports/ # Research drafts and final reports
+
+├── Additional_Materials/ # Images and other media
+
+└── README.md # Project overview
